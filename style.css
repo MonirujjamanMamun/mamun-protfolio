@@ -2,3 +2,35 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.head-section {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.half-width {}
+
+h1 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.half-width p {
+    text-align: justify;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-image: linear-gradient(90deg, orange, salmon);
+}
+
+.half-width img {
+    width: 300px;
+}
