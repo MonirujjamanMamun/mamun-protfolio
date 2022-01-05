@@ -30,7 +30,7 @@ h1 {
     color: orange;
 }
 
-.half-width p {
+.para-style {
     text-align: justify;
 }
 
@@ -60,3 +60,50 @@ h1 {
 
 
 /* dream area end hare  */
+
+
+/* experience area start hare */
+
+.experience-area {
+    text-align: center;
+}
+
+.box-area {
+    margin: 0 auto;
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+.box {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+#left-mar {
+    border-left: 8px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#right-mar {
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+}
+
+
+/* experience area ends hare */
+
+
+/* footer area start here */
+
+.footer-area p {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+/* footer area ends here */
