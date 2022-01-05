@@ -4,8 +4,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+
+/* top header start hear */
+
 .head-section {
     display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 .half-width {
@@ -36,3 +41,6 @@ h1 {
 .half-width img {
     width: 80%;
 }
+
+
+/* top header ends hear */
