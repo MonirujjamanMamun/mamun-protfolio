@@ -8,9 +8,13 @@ body {
 /* top header start hear */
 
 .head-section {
-    display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+.flex-area {
+    display: flex;
 }
 
 .half-width {
@@ -44,3 +48,15 @@ h1 {
 
 
 /* top header ends hear */
+
+
+/* dream area start hare */
+
+.dream-area {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+/* dream area end hare  */
